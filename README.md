@@ -1,1 +1,4 @@
-Mpesa and Whatsapp Automatin
+*******Mpesa and Whatsapp Automation*******
+
+Note: Naive Implementation
+
