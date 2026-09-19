@@ -1,4 +1,4 @@
-# M-Pesa + WhatsApp Order Automation
+# M-Pesa + WhatsApp Order Automation                                           2026
 
 A backend project that models how Kenyan businesses could automate the workflow between customer orders, WhatsApp communication, M-Pesa payments, and order tracking.
 
@@ -139,7 +139,7 @@ The initial order state machine is:
 
 ```text
 CREATED
-   ↓
+   ↓↓
 AWAITING_PAYMENT
    ↓
 PAID
@@ -241,3 +241,6 @@ The project is intentionally used to explore questions such as:
 * How should the system recover from partially completed workflows?
 
 These questions are part of the project rather than problems to hide behind the implementation.
+
+
+                                     ©️alphasystemscore
