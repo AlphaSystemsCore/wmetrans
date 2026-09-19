@@ -225,7 +225,7 @@ M-Pesa API
 
 The internal order and payment architecture should remain largely independent of those external providers.
 
-## Engineering Questions
+## Engineering Questions I have used to reason about the system
 
 The project is intentionally used to explore questions such as:
 
